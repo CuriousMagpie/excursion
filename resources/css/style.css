@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  color: gray;
+  font-size: 21px;
+  font-weight: 300;
+}
+
+a:active, a:visited {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  color: gray;
+  text-align: right;
+}
